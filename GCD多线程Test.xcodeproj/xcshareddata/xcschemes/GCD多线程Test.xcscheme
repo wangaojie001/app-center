@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1120"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6B719182239F4E3D00FF6567"
+               BuildableName = "GCD&#x591a;&#x7ebf;&#x7a0b;Test.app"
+               BlueprintName = "GCD&#x591a;&#x7ebf;&#x7a0b;Test"
+               ReferencedContainer = "container:GCD&#x591a;&#x7ebf;&#x7a0b;Test.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+      <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6B71919D239F4E3F00FF6567"
+               BuildableName = "GCD&#x591a;&#x7ebf;&#x7a0b;TestTests.xctest"
+               BlueprintName = "GCD&#x591a;&#x7ebf;&#x7a0b;TestTests"
+               ReferencedContainer = "container:GCD&#x591a;&#x7ebf;&#x7a0b;Test.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "6B7191A8239F4E3F00FF6567"
+               BuildableName = "GCD&#x591a;&#x7ebf;&#x7a0b;TestUITests.xctest"
+               BlueprintName = "GCD&#x591a;&#x7ebf;&#x7a0b;TestUITests"
+               ReferencedContainer = "container:GCD&#x591a;&#x7ebf;&#x7a0b;Test.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6B719182239F4E3D00FF6567"
+            BuildableName = "GCD&#x591a;&#x7ebf;&#x7a0b;Test.app"
+            BlueprintName = "GCD&#x591a;&#x7ebf;&#x7a0b;Test"
+            ReferencedContainer = "container:GCD&#x591a;&#x7ebf;&#x7a0b;Test.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "6B719182239F4E3D00FF6567"
+            BuildableName = "GCD&#x591a;&#x7ebf;&#x7a0b;Test.app"
+            BlueprintName = "GCD&#x591a;&#x7ebf;&#x7a0b;Test"
+            ReferencedContainer = "container:GCD&#x591a;&#x7ebf;&#x7a0b;Test.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
