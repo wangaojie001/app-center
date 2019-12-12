@@ -497,6 +497,7 @@
 				CURRENT_PROJECT_VERSION = 1.1;
 				DEVELOPMENT_TEAM = JRVAYH4393;
 				INFOPLIST_FILE = "GCD多线程Test/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -519,6 +520,7 @@
 				CURRENT_PROJECT_VERSION = 1.1;
 				DEVELOPMENT_TEAM = JRVAYH4393;
 				INFOPLIST_FILE = "GCD多线程Test/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
